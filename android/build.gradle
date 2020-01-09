@@ -9,7 +9,7 @@ buildscript {
     }
 }
 
-apply plugin: 'com.android.docviewer'
+apply plugin: 'com.philipphecht'
 
 android {
     compileSdkVersion 25
